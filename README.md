@@ -14,3 +14,4 @@ next steps were:
     - getting a single question.
     - creating an answer
     - adding comments to questions and answers and make sure answers and questions are logically separate, and reinforced with tests.
+7. Refactor to add Data transfer objects to decople data model and reponse models.
